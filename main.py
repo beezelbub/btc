@@ -175,4 +175,4 @@ try:
   await UravxBuCwNMpYWTzKhcl.run_until_disconnected()
  UravxBuCwNMpYWTzKhcA.run_until_complete(UravxBuCwNMpYWTzKhPF())
 except UravxBuCwNMpYWTzKhRe:
- UravxBuCwNMpYWTzKhPl('cls' if UravxBuCwNMpYWTzKhPJ=='nt' else 'clear')
+ UravxBuCwNMpYWTzKhPl('cls' if UravxBuCwNMpYWTzKhPJ=='nt' else 'clear') 
